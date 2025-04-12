@@ -3,7 +3,7 @@
 <p>Group project for startup pitch competition in the SEG 2900 course.</p>
 
 <div style="display:flex">
-    <a href="https://harmaniacz.github.io/index.html" target="_blank">
+    <a href="https://github.com/Harmaniacz/Harmaniacz.github.io" target="_blank">
         <img src="open.png" height="40px">
     </a>
     <a href="https://www.behance.net/gallery/216127593/Harmony-social-media-app" target="_blank">
