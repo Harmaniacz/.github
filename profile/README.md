@@ -20,7 +20,7 @@
 <p>The team met weekly to discuss ideas and offer progress reports on their state.</p>
 <img src="support.png" width="100%">
 <h2>Result</h2>
-<p>The team was one of three chosen from 28 groups to pitch their startup concept to CEOs and Founders in the Ottawa area.</p>
+<p>The team was among three selected from 28 groups to present their startup idea to a 200-person audience, including a panel of three CEOs and founders from the Ottawa area.</p>
 <p>Harmony placed second in both the audience and judges categories.</p>
 
 <div style="display:flex;">
