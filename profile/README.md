@@ -4,10 +4,10 @@
 
 <div style="display:flex">
     <a href="https://github.com/Harmaniacz/Harmaniacz.github.io" target="_blank">
-        <img src="open.png" height="40px">
+        <img src="open.png" height="40px" alt="Open repository">
     </a>
     <a href="https://www.behance.net/gallery/216127593/Harmony-social-media-app" target="_blank">
-        <img src="view.png" height="40px">
+        <img src="view.png" height="40px" alt="View pitch deck">
     </a>
 </div>
 
