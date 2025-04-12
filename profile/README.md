@@ -2,7 +2,7 @@
 <h1>Harmony</h1>
 <p>Harmony by Harmaniacz</p>
 
-<div style="display:flex; column-gap: 20px">
+<div style="display:flex">
     <a href="https://harmaniacz.github.io/index.html" target="_blank">
         <img src="open.png" height="40px">
     </a>
@@ -23,7 +23,7 @@
 <p>The team was one of three chosen from 28 groups to pitch their startup concept to CEOs and Founders in the Ottawa area.</p>
 <p>Harmony placed second in both the audience and judges categories.</p>
 
-<div style="display:flex; column-gap: 20px">
+<div style="display:flex;">
     <a href="https://harmaniacz.github.io/index.html" target="_blank">
         <img src="open.png" height="40px">
     </a>
