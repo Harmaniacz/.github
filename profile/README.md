@@ -1,4 +1,4 @@
-<a href="https://harmaniacz.github.io/home.html" target="_blank"><img src="banner.png" alt="README.md banner" width="100%"></a>
+<a href="https://harmaniacz.github.io/index.html" target="_blank"><img src="banner.png" alt="README.md banner" width="100%"></a>
 <h1>Harmony</h1>
 <p>Harmony by Harmaniacz</p>
 
