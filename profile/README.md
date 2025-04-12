@@ -1,6 +1,6 @@
 <a href="https://harmaniacz.github.io/index.html" target="_blank"><img src="banner.png" alt="README.md banner" width="100%"></a>
 <h1>Harmony</h1>
-<p>Finalist project for startup pitch competition in the SEG 2900 course.</p>
+<p>Group project for startup pitch competition in the SEG 2900 course.</p>
 
 <div style="display:flex">
     <a href="https://harmaniacz.github.io/index.html" target="_blank">
